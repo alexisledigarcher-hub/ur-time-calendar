@@ -2,7 +2,7 @@
 
 import { parseSemester } from 'utils'
 
-const organisation = `
+const organization = `
     ref: a26
     starts:2026/08/26
     ends:2027/01/31
@@ -51,4 +51,7 @@ const organisation = `
     '2027/01/11-2027/01/16-x-F-x',
   ];
 };
-export default getA26organization;
+
+const A26organization = parseSemester(organisation, 'A26')
+
+export default A2organization
