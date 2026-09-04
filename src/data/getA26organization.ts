@@ -49,8 +49,7 @@ const organisation = `
     '2027/01/06-2027/01/06-B-x-Samedi', // Mercredi rattrapé en Samedi B7
     '2027/01/07-2027/01/09-x-F-x', // Période d'examens finaux
     '2027/01/11-2027/01/16-x-F-x',
-  ];
-};
+ `
 
 const A26organization = parseSemester(organisation, 'A26')
 
