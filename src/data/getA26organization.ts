@@ -51,3 +51,4 @@ const organisation = `
     '2027/01/11-2027/01/16-x-F-x',
   ];
 };
+export default getA26organization;
