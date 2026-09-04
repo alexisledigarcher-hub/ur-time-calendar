@@ -2,7 +2,7 @@
 
 import { parseSemester } from 'utils'
 
-const organization = `
+const organisation = `
     ref: a26
     starts:2026/08/26
     ends:2027/01/31
