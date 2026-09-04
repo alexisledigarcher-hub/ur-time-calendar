@@ -31,7 +31,7 @@ function App() {
     const [classes, setClasses] = useState<Class[]>([])
     const [exams, setExams] = useState<Exam[]>([])
     const [semesterOrganization, setSemesterOrganization] =
-        useState<SemesterPlanning>(getA26organization())
+        useState<SemesterPlanning>(getA26organization)
     const [notif, setNotif] = useState<[string, notifType] | undefined>(
         undefined
     )
