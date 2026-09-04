@@ -1,5 +1,8 @@
-export const getA26organization = () => {
-  return [
+import { parseSemester } from "utils"
+
+const organisation = `
+
+ref
     // Semaine de rentrée (31 août - 05 sept) : cours uniquement
     '2026/08/31-2026/08/31-x-x-x',
     '2026/09/01-2026/09/05-x-x-x',
