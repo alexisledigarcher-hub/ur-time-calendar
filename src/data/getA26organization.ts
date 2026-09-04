@@ -3,7 +3,7 @@
 import { parseSemester } from 'utils'
 
 const organisation = `
-    ref: a25
+    ref: a26
     starts:2026/08/26
     ends:2027/01/31
     //Semaine de rentrée (31 août - 05 sept) : cours uniquement
