@@ -54,4 +54,4 @@ const organisation = `
 
 const A26organization = parseSemester(organisation, 'A26')
 
-export default A2organization
+export default A26organization
