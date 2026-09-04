@@ -25,7 +25,7 @@ import {
     parseClassesMail,
 } from 'utils'
 import { notifType } from 'types/notifType'
-import getA25organisation from 'data/getA25organization'
+import getA26organisation from 'data/getA26organization'
 
 function App() {
     const [classes, setClasses] = useState<Class[]>([])
